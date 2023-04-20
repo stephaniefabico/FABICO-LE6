@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 20px;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.listPost {
+  display: grid;
+  border: 2px solid gray;
+  background: white;
+  margin: 20px;
+}
+
+body {
+  margin: -9px;
+  background: pink;
+  overflow: hidden;
+}
